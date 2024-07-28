@@ -28,15 +28,14 @@ Here's an example of how to use Spotify Cover Maker to create a custom cover:
 
 1. Select a template:
 
-   ![Select Template](https://example.com/template-selection.png)
-
+  ![Spotify Playlist Cover Maker Preview](https://sharegiftlist.com/images/app/spotify-playlist-cover-maker-preview.png)
 2. Customize settings:
 
-   ![Customize Settings](https://example.com/customization.png)
+ 
 
 3. Download the cover:
 
-   ![Download Cover](https://example.com/download-cover.png)
+ 
 
 ## Contributing
 We welcome contributions from everyone! Please read our [CONTRIBUTING.md](link) for detailed contribution guidelines.
