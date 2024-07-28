@@ -1,6 +1,7 @@
-# spotify-cover-maker
-Create a Spotify playlist cover that equals your excellent selection! Create your custom cover for your Spotify playlists, choose from images, colors, and fonts that express your favorite songs.
+
 # Spotify Cover Maker
+
+Create a Spotify playlist cover that equals your excellent selection! Create your custom cover for your Spotify playlists, choose from images, colors, and fonts that express your favorite songs.
 
 ## Introduction
 Welcome to **Spotify Cover Maker**! This is a free online tool that allows you to easily create and customize Spotify playlist covers. With our tool, you can quickly generate high-quality cover art that makes your playlists stand out on various music platforms.
