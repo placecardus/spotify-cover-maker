@@ -48,9 +48,9 @@ If you have any questions or suggestions, feel free to contact us at [your email
 
 ## Acknowledgements
 Special thanks to the following contributors:
-- [Contributor 1](link)
-- [Contributor 2](link)
+- [lyrics poster maker](https://github.com/placecardus/lyrics-poster-maker)
+- [place card maker](https://github.com/placecardus/place-card-maker)
 
 ---
 
-Visit our tool and start creating beautiful Spotify covers now: [Spotify Cover Maker](https://sharegiftlist.com/best-free-spotify-cards-maker-2024)
+Visit our tool and start creating beautiful Spotify covers now: [Spotify Cover Maker](https://sharegiftlist.com/spotify-playlist-cover-maker)
